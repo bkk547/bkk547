@@ -1,16 +1,17 @@
-## Hi there 👋
+# About me
 
-<!--
-**bkk547/bkk547** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on BAM at Microsoft.
+- 🌱 I’m currently learning more about the world.
+- 👯 I’m looking to collaborate on provlem solving.
+- 🤔 I’m looking for help with becoming successful.
+- 💬 Ask me about anything that is intellectually relevant.
+- 📫 How to reach me: Instagram (primarily), Linkdin, or Phone number.
+- 😄 Pronouns: he/him.
+- ⚡ Fun fact: I am an elite athlete.
+
+👌🏈
